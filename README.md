@@ -5,4 +5,4 @@ Makes use of:
     const_iterators with .cbeing()
     reverse iterator with .rend()
     const reverse iterator's
-    
+ The main code uses these iterators to sort through data structures such as std::vector's.
